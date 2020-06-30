@@ -5,7 +5,7 @@
     目前预采用的是RSA加密方式中的md5withRSA算法实现的签名机制。
 ## RSA原理
     RSA 是一种非对称的签名算法，即签名密钥（私钥）与验签密钥（公钥）是不一样的，私钥用于签名，公钥用于验签。 其原理如下：
-![Alt text](src/main/resources/原理图.png)
+![Alt text](src/main/resources/images/原理图.png)
 
     校验规则： 当接收方的期待串与签名原串一致时， 校验成功；否则校验失败。
 ## 签名校验失败？
@@ -50,3 +50,5 @@
 ## 应用
     详见客户端及服务端接入demo
 
+## 听说，打赏我的人最后都找到了真爱。 O(∩_∩)O~
+![Alt text](src/main/resources/images/image.png)
