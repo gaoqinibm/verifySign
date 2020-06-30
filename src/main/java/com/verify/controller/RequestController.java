@@ -1,11 +1,11 @@
-package com.rocky.controller;
+package com.verify.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.rocky.bean.StudentRequestBean;
-import com.rocky.constant.ConfigConstant;
-import com.rocky.util.HttpUtil;
-import com.rocky.util.SignUtil;
+import com.verify.bean.StudentRequestBean;
+import com.verify.constant.ConfigConstant;
+import com.verify.util.HttpUtil;
+import com.verify.util.SignUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;

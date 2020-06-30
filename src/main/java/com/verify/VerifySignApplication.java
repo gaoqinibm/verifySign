@@ -1,4 +1,4 @@
-package com.rocky;
+package com.verify;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

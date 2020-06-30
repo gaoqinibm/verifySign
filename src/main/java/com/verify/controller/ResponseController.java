@@ -1,10 +1,10 @@
-package com.rocky.controller;//package com.rocky;
+package com.verify.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import com.lianpay.api.util.TraderRSAUtil;
-import com.rocky.bean.NotifyResponseBean;
-import com.rocky.constant.ConfigConstant;
-import com.rocky.util.SignUtil;
+import com.verify.bean.NotifyResponseBean;
+import com.verify.constant.ConfigConstant;
+import com.verify.util.SignUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;

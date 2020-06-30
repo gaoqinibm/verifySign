@@ -1,4 +1,4 @@
-package com.rocky.util;
+package com.verify.util;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

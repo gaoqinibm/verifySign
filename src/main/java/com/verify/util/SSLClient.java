@@ -1,4 +1,4 @@
-package com.rocky.util;
+package com.verify.util;
 
 import java.security.cert.CertificateException;
 

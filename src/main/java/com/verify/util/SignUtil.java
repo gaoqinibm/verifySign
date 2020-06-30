@@ -1,4 +1,4 @@
-package com.rocky.util;
+package com.verify.util;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 import com.alibaba.fastjson.JSONObject;
 import com.lianpay.api.util.TraderRSAUtil;
-import com.rocky.constant.ConfigConstant;
+import com.verify.constant.ConfigConstant;
 
 public class SignUtil {
 

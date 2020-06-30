@@ -1,4 +1,4 @@
-package com.rocky.bean;
+package com.verify.bean;
 
 public class StudentRequestBean {
 
